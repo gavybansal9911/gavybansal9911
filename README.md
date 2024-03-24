@@ -16,8 +16,6 @@
 
 💬 Ask me about **C++, C#, Unreal Engine, Godot, JavaScript, Node.js, and any general software development questions**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
 
  <div align="center"> 
