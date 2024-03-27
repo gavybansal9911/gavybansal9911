@@ -25,6 +25,9 @@
   <a href="https://www.fiverr.com/s/bEvKAp">
     <img src="https://img.shields.io/badge/Fiverr-333333?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
+  <a href="https://replit.com/@GavishBansal">
+    <img src="https://img.shields.io/badge/Replit-333333?style=for-the-badge&logo=replit&logoColor=orange" />
+  </a>
 </div>
 
  <hr/>
