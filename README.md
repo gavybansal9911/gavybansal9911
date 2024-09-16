@@ -38,7 +38,7 @@
     <img src="https://skillicons.dev/icons?i=unrealengine,godot" />
     <img src="https://skillicons.dev/icons?i=nodejs,bootstrap,html,css,github,git,kotlin,androidstudio" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,cpp,cs,vscode,visualstudio" /><br>
-    <img src="https://skillicons.dev/icons?i=cmake,jquery,electron" />
+    <img src="https://skillicons.dev/icons?i=cmake,jquery,electron,rust" />
 </div>
 
 <br/>
