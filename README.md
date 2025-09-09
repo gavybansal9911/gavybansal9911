@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Unreal Engine project**
  
- 🌱 I’m currently learning **Javascript, AWS**
+ 🌱 I’m currently learning **DirectX, AWS**
 
 💬 Ask me about **C++, C#, Unreal Engine, Godot, JavaScript, Node.js, and any general software development questions**
 
